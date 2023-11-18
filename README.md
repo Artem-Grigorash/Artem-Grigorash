@@ -28,4 +28,3 @@ I am currently studying at the University in the Сomputer Science and Artificia
 
 <a href="http://www.github.com/Artem-Grigorash"><img src="https://github-readme-stats.vercel.app/api?username=Artem-Grigorash&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Artem-Grigorash's GitHub stats" /></a>
 
-<a href="https://github.com/Artem-Grigorash" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-Grigorash&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
