@@ -4,7 +4,7 @@ Hi 👋 My name is Artem Grigorash
 Android developer
 -----------------
 
-I am currently studying at the University in the Сomputer Science and Artificial Intelligence program from JetBrains. I have deep knowledge in Android development in Kotlin and Java and basic knowledge in Python and C.
+I am currently studying at the University in the Сomputer Science and Artificial Intelligence program from JetBrains. I have deep knowledge in Android development in Kotlin and Java. I also know Python and C.
 
 * 🌍  I'm based in Paphos, Cyprus
 * ✉️  You can contact me at [artem.s.grigorash@gmail.com](mailto:artem.s.grigorash@gmail.com)
